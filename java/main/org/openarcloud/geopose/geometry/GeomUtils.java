@@ -1,4 +1,4 @@
-package org.openarcloud.geopose.Geometry;
+package org.openarcloud.geopose.geometry;
 
 /**
  * Created by janvin on 01.06.2017.

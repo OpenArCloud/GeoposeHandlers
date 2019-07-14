@@ -1,4 +1,4 @@
-package org.openarcloud.geopose.Geometry;
+package org.openarcloud.geopose.geometry;
 
 /**
  * Class and method for finding vector of shortest distance between a point and a triangle
