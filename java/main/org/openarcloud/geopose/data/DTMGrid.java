@@ -2,8 +2,8 @@ package org.openarcloud.geopose.data;
 
 import java.nio.FloatBuffer;
 
-import org.openarcloud.geopose.Geometry.GeomUtils;
-import org.openarcloud.geopose.Geometry.Triangle;
+import org.openarcloud.geopose.geometry.GeomUtils;
+import org.openarcloud.geopose.geometry.Triangle;
 import org.openarcloud.geopose.geodesy.Geodesy;
 import org.openarcloud.geopose.geodesy.OriginData;
 
